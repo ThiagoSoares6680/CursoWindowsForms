@@ -43,13 +43,6 @@ namespace CursoWindowsFormsBiblioteca
 
         }
 
-        //Teste
-        public void teste()
-        {
-
-        }
-
-
         public static bool Valida(string cpf)
         {
             int[] multiplicador1 = new int[9] { 10, 9, 8, 7, 6, 5, 4, 3, 2 };
